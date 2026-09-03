@@ -18,10 +18,10 @@ public class HelloWorld
         string sectionInput = Console.ReadLine();
 
         Console.WriteLine("== SUMMARY ==");
-        Console.WriteLine(nameInput);
-        Console.WriteLine(courseInput);
-        Console.WriteLine(yearInput);
-        Console.WriteLine(sectionInput);
+        Console.WriteLine("Name: " + nameInput);
+        Console.WriteLine("Course: " + courseInput);
+        Console.WriteLine("Year: " + yearInput);
+        Console.WriteLine("Section: " + sectionInput);
         
         Console.WriteLine("");
         Console.WriteLine("Activity 2. ");
@@ -42,13 +42,14 @@ public class HelloWorld
         Console.WriteLine("");
         Console.WriteLine("Activity 3. ");
         Console.WriteLine("Length: ");
-        int Length = Console.ReadLine();
+        int Length = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine("Width: ");
-        int Width = Console.ReadLine();
+        int Width = Convert.ToInt32(Console.ReadLine());
         int Area = Length * Width;
         Console.WriteLine("Area is: " + Area);
 
-
+        Console.WriteLine("");
+        Console.WriteLine("Activity 4. ");
 
     }
 }
