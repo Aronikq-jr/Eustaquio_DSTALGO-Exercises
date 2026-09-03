@@ -1,0 +1,101 @@
+Activity 1. 
+Add your name: 
+Aron
+What is your course?: 
+BSIS
+What is your year level?: 
+2nd year
+What is your section?: 
+BSIS01
+== SUMMARY ==
+Name: Aron
+Course: BSIS
+Year: 2nd year
+Section: BSIS01
+
+Activity 2. 
+Input Number 1: 
+67
+Input Number 2: 
+14
+== SUMMARY ==
+Addition: 81
+Subtraction: 53
+Multiplication: 938
+Division: 4.78571428571429
+
+Activity 3. 
+Length: 
+12
+Width: 
+3
+Area is: 156
+
+Activity 4. 
+Prelim Grade: 
+90
+Midterm: 
+94
+Final: 
+97
+Your Average Grade is: 93.6666666666667
+
+Activity 5. 
+Are you a Student? (true/false)
+true
+Status: Student
+
+Activity 6. 
+What is your age?: 
+20
+You are old enough!
+
+Activity 7. 
+What is your first name?
+Aron Cedric
+What is your last name?
+Eustaquio
+Hi! Your full name is: Aron Cedric Eustaquio
+
+Activity 8. 
+Product name: 
+NVIDIA RTX
+Price: 
+30000
+Quantity: 
+3
+The total cost of NVIDIA RTX is P90000
+
+Activity 9. 
+Employee name: 
+Mark Dela Crux
+Hours worked: 
+5
+Hourly rate: 
+6
+Salary is: P30
+
+Activity 10. 
+Name: 
+Yshma
+Course: 
+BSIS
+Age: 
+26
+Year Level: 
+2
+Grade 1: 
+80
+Grade 2: 
+85
+Grade 3: 
+90
+--- STUDENT INFORMATION ---
+Name: Yshma
+Course: BSIS
+Age: 26
+Year Level: 2
+Average Grade: 85
+Status: Student is 18 or older!
+
+=== Code Execution Successful ===
