@@ -249,42 +249,6 @@ public partial class Form1 : Form
         lblQuad3.Text = "Sorted digits: " + new string(digits);
     }
 
-    long Fib(int n)
-    {
-        counter++;
-
-        if (n <= 1)
-        {
-            return n;
-        }
-
-        return Fib(n - 1) + Fib(n - 2);
-    }
-
-    void Hanoi(int n)
-    {
-        if (n == 0)
-        {
-            return;
-        }
-
-        Hanoi(n - 1);
-        counter++;
-        Hanoi(n - 1);
-    }
-
-    void MakeStrings(int length, int position)
-    {
-        if (position == length)
-        {
-            counter++;
-            return;
-        }
-
-        MakeStrings(length, position + 1);
-        MakeStrings(length, position + 1);
-    }
-
     long Grains(int square)
     {
         counter++;
